@@ -62,6 +62,8 @@ sort them, cargeorize them, etc.
 
 ![3D clusters](http://pythonprogramming.net/static/images/unsupervised-learning/hierarchcical-clustering-3d-matplotlib-meanshift-tutorial.png)
 
+(From [Unsupervised Machine Learning: Hierarchical Clustering][3])
+
 Examples of unsupervised learning include:
 
 * PageRank: search results are ordered using the graph connecting each result
@@ -87,7 +89,19 @@ Is this task supervised, or unsupervised, or more than one type?
 4. Learning to play music
 5. Credit limit: deciding the maximum allowed debt for each bank customer
 
-[AML Exercise 1.6][2]
+(From [AML Exercise 1.6][2])
+
+* http://localhost:8888/notebooks/notebooks/chapter08_ml/06_random_forest.ipynb
+
+#### Resources
+
+1. [IPython install docs](https://jupyter.readthedocs.org/en/latest/install.html#if-you-use-python-but-do-not-use-anaconda)
+2. [IPython Cookbook](https://github.com/ipython-books/cookbook-code), includes [ml](https://github.com/ipython-books/cookbook-code/tree/master/notebooks/chapter08_ml) notebooks
+1. [IPython notebooks on machine learning](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#machine-learning)
+2. [IPython notebooks on data visualization and plotting](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#data-visualization-and-plotting)
+
+#### References
 
 [1]: https://www.cs.cmu.edu/~tom/mlbook.html
 [2]: http://amlbook.com/
+[3]: http://pythonprogramming.net/hierarchical-clustering-machine-learning-python-scikit-learn/
